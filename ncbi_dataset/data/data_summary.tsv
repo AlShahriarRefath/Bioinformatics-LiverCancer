@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Rhizobium ruizarguesonis		strain: NZLR24	2081791	ASM1735728v1	GCA_017357285.1	GenBank	NCBI Prokaryotic Genome Annotation Pipeline (PGAP)	Complete Genome	5043164	7811507	2021-03-16	7481	PRJNA614606	SAMN18219197
+Rhizobium ruizarguesonis		strain: NZLR24	2081791	ASM1735728v1	GCF_017357285.1	RefSeq	GCF_017357285.1-RS_2024_04_27	Complete Genome	5043164	7811507	2021-03-16	7552	PRJNA614606	SAMN18219197
